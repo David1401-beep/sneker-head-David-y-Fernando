@@ -61,3 +61,13 @@ body {
     text-decoration: none;
     border-radius: 5px;
 }
+footer{
+    background-color: #666;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
